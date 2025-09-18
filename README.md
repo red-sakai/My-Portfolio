@@ -12,10 +12,6 @@ This site showcases my projects, tech stack, and background as a Computer Engine
 - Responsive design with Tailwind CSS
 - Contact and social links in the footer
 
-## 📸 Screenshots
-
-![Portfolio Screenshot](./screenshots/Selfiesta.PNG)
-
 ## 🛠️ Tech Stack
 
 - React, Next.js, Vite
@@ -32,8 +28,6 @@ src/
   components/
     sections/   # Main page sections (Hero, About, Projects, TechStack, Footer)
     ui/         # Reusable UI components (Button, Card)
-public/
-  screenshots/  # Project preview images
 ```
 
 ## 📬 Contact
