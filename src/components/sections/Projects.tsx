@@ -46,8 +46,8 @@ const projects = [
     title: "Static Mind",
     description: "A game made using Unity Engine and C#, you suddenly wake up in a dark room where you are suddenly being experimented on by Dr. Red. Find a way out before you lose your sanity.",
     technologies: ["Unity Engine", "C#", "Blender"],
-    liveUrl: "https://selfiesta.vercel.app/",
-    githubUrl: "https://github.com/red-sakai/Selfiesta",
+    liveUrl: "#",
+    githubUrl: "#",
     screenshot: "Static-Mind.PNG"
   }
 ]
