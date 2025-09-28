@@ -37,8 +37,8 @@ const projects = [
     title: "ICPEP PUP CMS Website",
     description: "A modern web application built with React and Vite that gets to know what ICPEP SE PUP Manila really is about.",
     technologies: ["React", "Vite", "Typescript"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://icpepsepup.vercel.app/",
+    githubUrl: "https://github.com/red-sakai/ICPEP-PUP-CMS-Website",
     screenshot: "ICPEP.png"
   },
   {
