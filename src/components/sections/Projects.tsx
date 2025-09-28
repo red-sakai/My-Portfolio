@@ -41,7 +41,7 @@ const projects = [
     githubUrl: "#",
     screenshot: "ICPEP.png"
   },
-    {
+  {
     id: 5,
     title: "Static Mind",
     description: "A game made using Unity Engine and C#, you suddenly wake up in a dark room where you are suddenly being experimented on by Dr. Red. Find a way out before you lose your sanity.",
@@ -49,7 +49,25 @@ const projects = [
     liveUrl: "#",
     githubUrl: "#",
     screenshot: "Static-Mind.PNG"
-  }
+  },
+  {
+    id: 6,
+    title: "Luntimeter",
+    description: "A monitoring website for an IoT application where it tracks your ESG Scores, specifically for construction comapnies.",
+    technologies: ["Next.js", "Typescript", "IoT"],
+    liveUrl: "#",
+    githubUrl: "https://github.com/marvinjameserosa/lunti",
+    screenshot: "Luntimeter.PNG"
+  },
+  {
+    id: 7,
+    title: "Connexa",
+    description: "A website built with Next.js and uses Next.js routers along with a Typescript backend, this is an community event management app where anyone can track what event will be ongoing and anyone can join.",
+    technologies: ["Next.js", "Typescript"],
+    liveUrl: "https://connexa-aws.vercel.app/",
+    githubUrl: "https://github.com/red-sakai/Connexa",
+    screenshot: "Connexa.PNG"
+  },
 ]
 
 function ProjectModal({ project, onClose }: { project: typeof projects[0], onClose: () => void }) {
