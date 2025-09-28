@@ -53,7 +53,7 @@ const projects = [
   {
     id: 6,
     title: "Luntimeter",
-    description: "A monitoring website for an IoT application where it tracks your ESG Scores, specifically for construction comapnies.",
+    description: "A monitoring website for an IoT where it tracks your business' ESG Scores, specifically made for construction comapnies.",
     technologies: ["Next.js", "Typescript", "IoT"],
     liveUrl: "#",
     githubUrl: "https://github.com/marvinjameserosa/lunti",
@@ -63,7 +63,7 @@ const projects = [
     id: 7,
     title: "Connexa",
     description: "A website built with Next.js and uses Next.js routers along with a Typescript backend, this is an community event management app where anyone can track what event will be ongoing and anyone can join.",
-    technologies: ["Next.js", "Typescript"],
+    technologies: ["Next.js", "Typescript", "Supabase"],
     liveUrl: "https://connexa-aws.vercel.app/",
     githubUrl: "https://github.com/red-sakai/Connexa",
     screenshot: "Connexa.PNG"
