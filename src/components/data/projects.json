@@ -61,5 +61,41 @@
     "liveUrl": "https://connexa-aws.vercel.app/",
     "githubUrl": "https://github.com/red-sakai/Connexa",
     "screenshot": "Connexa.PNG"
+  },
+  {
+    "id": 8,
+    "title": "ICPEP.se NCR Digital Passport",
+    "description": "A website built using Next.js that is for ICPEP.se NCR students that they can use in order to gain badges by attending live events and scanning their QR codes.",
+    "technologies": ["Next.js", "DigitalOcean"],
+    "liveUrl": "#",
+    "githubUrl": "#",
+    "screenshot": "DigitalPassport.png"
+  },
+  {
+    "id": 9,
+    "title": "BatchMail",
+    "description": "A website built using Next.js that is for automating of emails that sends to recipients by batch in order to bypass Vercel's hobby plan of an estimated 10 seconds per streaming request.",
+    "technologies": ["Next.js", "Typescript", "React.QR"],
+    "liveUrl": "https://batchmail.vercel.app/",
+    "githubUrl": "#",
+    "screenshot": "BatchMail.png"
+  },
+  {
+    "id": 10,
+    "title": "AlgoHub",
+    "description": "A gamified website built using Next.js and it is for learning data structures and algorithms by showing simulations depending on what case study.",
+    "technologies": ["Next.js", "Supabase"],
+    "liveUrl": "https://batchmail.vercel.app/",
+    "githubUrl": "https://github.com/red-sakai/Algohub",
+    "screenshot": "AlgoHub.png"
+  },
+  {
+    "id": 11,
+    "title": "Bear Bank",
+    "description": "A bubu and dudufied budget tracking app that includes the cartoon characters 'Bubu' and 'Dudu', built using Flutter and is compatible to all android devices.",
+    "technologies": ["Flutter", "Dart", "Hive"],
+    "liveUrl": "https://batchmail.vercel.app/",
+    "githubUrl": "https://github.com/red-sakai/Bear-Bank",
+    "screenshot": "BearBank.png"
   }
 ]
